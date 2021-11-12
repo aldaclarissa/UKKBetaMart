@@ -1,0 +1,11 @@
+D:\UKK\TokoBetaMart\betamart\betamart\bin\Debug\betamart.accdb
+D:\UKK\TokoBetaMart\betamart\betamart\bin\Debug\betamart.exe.config
+D:\UKK\TokoBetaMart\betamart\betamart\bin\Debug\betamart.exe
+D:\UKK\TokoBetaMart\betamart\betamart\bin\Debug\betamart.pdb
+D:\UKK\TokoBetaMart\betamart\betamart\obj\Debug\betamart.csproj.AssemblyReference.cache
+D:\UKK\TokoBetaMart\betamart\betamart\obj\Debug\betamart.Form1.resources
+D:\UKK\TokoBetaMart\betamart\betamart\obj\Debug\betamart.Properties.Resources.resources
+D:\UKK\TokoBetaMart\betamart\betamart\obj\Debug\betamart.csproj.GenerateResource.cache
+D:\UKK\TokoBetaMart\betamart\betamart\obj\Debug\betamart.csproj.CoreCompileInputs.cache
+D:\UKK\TokoBetaMart\betamart\betamart\obj\Debug\betamart.exe
+D:\UKK\TokoBetaMart\betamart\betamart\obj\Debug\betamart.pdb
